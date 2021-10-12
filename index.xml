@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>荆启宸的测试网页</title>
+    <link>https://JImRubbish.github.io/</link>
+    <description>Recent content on 荆启宸的测试网页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 15:02:57 +0800</lastBuildDate><atom:link href="https://JImRubbish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://JImRubbish.github.io/post/intro/</link>
+      <pubDate>Sun, 26 Sep 2021 15:02:57 +0800</pubDate>
+      
+      <guid>https://JImRubbish.github.io/post/intro/</guid>
+      <description>Hey! It&amp;rsquo;s Jim, which is the constructor of this website. &amp;mdash;26/9/2021</description>
+    </item>
+    
+  </channel>
+</rss>
