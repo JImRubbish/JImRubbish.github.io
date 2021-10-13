@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>荆启宸的测试网页</title>
+    <title>荆启宸的Blog</title>
     <link>https://JImRubbish.github.io/</link>
-    <description>Recent content on 荆启宸的测试网页</description>
+    <description>Recent content on 荆启宸的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Sep 2021 15:02:57 +0800</lastBuildDate><atom:link href="https://JImRubbish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 18:50:14 +0800</lastBuildDate><atom:link href="https://JImRubbish.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intro</title>
+      <title>我遇到的难点</title>
+      <link>https://JImRubbish.github.io/post/the-second-post/</link>
+      <pubDate>Wed, 13 Oct 2021 18:50:14 +0800</pubDate>
+      
+      <guid>https://JImRubbish.github.io/post/the-second-post/</guid>
+      <description>我遇到的问题 : 我第一次之前从未接触过 github page 的个人网页编写，和上传操作。所以，理所应当的，我这次作业过程中遇到了太多问题和漫长的一个个地解决它们。下面我将简略地列出2个主要的难点
+难点1： 上传过程  在网上的教程中，并不是直接把做好的网页直接通过 &amp;lt;github.com&amp;gt; 传到对应 Repository 的，而是通过 Terminal 中利用 git 指令进行操作，而这就设计到 git 的学习和使用。于是我旋即又去网上寻找 git 安装教程。而当我安好git后，为了能和 github 取得安全的连接，我还要配置账户环境，并创建 .ssh 密匙并上传到我的 github 账户中。期间出现了各种各样的网络错误，例如： port 22 connection refused 和 port 443 connection refused ，最终多次尝试玄学解决。
+ </description>
+    </item>
+    
+    <item>
+      <title>我的简介</title>
       <link>https://JImRubbish.github.io/post/intro/</link>
       <pubDate>Sun, 26 Sep 2021 15:02:57 +0800</pubDate>
       
       <guid>https://JImRubbish.github.io/post/intro/</guid>
-      <description>Hey! It&amp;rsquo;s Jim, which is the constructor of this website. &amp;mdash;26/9/2021</description>
+      <description>我是荆启宸，这是我创建的第一个博客 &amp;mdash;26/9/2021</description>
     </item>
     
   </channel>
